@@ -1,0 +1,11 @@
+id,season,city,date,team1,team2,toss_winner,toss_decision,result,dl_applied,winner,win_by_runs,win_by_wickets,player_of_match,venue,umpire1,umpire2,umpire3
+1,2017,Hyderabad,2017-04-05,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Sunrisers Hyderabad,35,0,Yuvraj Singh,"Rajiv Gandhi International Stadium, Uppal",AY Dandekar,NJ Llong,
+2,2017,Pune,2017-04-06,Delhi Daredevils,Rising Pune Supergiant,Rising Pune Supergiant,field,normal,0,Delhi Daredevils,0,7,SPD Smith,Maharashtra Cricket Association Stadium,A Nand Kishore,S Ravi,
+4,2017,Bangalore,2008-04-18,Rising Pune Supergiant,Royal Challengers Bangalore,Rising Pune Supergiant,field,normal,0,Royal Challengers Bangalore,140,0,BB McCullum,M Chinnaswamy Stadium,Asad Rauf,RE Koertzen,
+7,2014,Centurion,2009-04-30,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils,0,6,DP Nannes,SuperSport Park,GAV Baxter,AM Saheba,
+22,2014,Sharjah,2014-04-17,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,8,YS Chahal,Sharjah Cricket Stadium,Aleem Dar,S Ravi,
+23,2015,Abu Dhabi,2014-04-18,Rising Pune Supergiant,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,0,6,GJ Maxwell,Sheikh Zayed Stadium,RK Illingworth,C Shamshuddin,
+24,2015,Abu Dhabi,2014-04-18,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,0,Sunrisers Hyderabad,0,4,AM Rahane,Sheikh Zayed Stadium,BF Bowden,RK Illingworth,
+28,2015,Delhi,2016-04-23,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,field,normal,0,Delhi Daredevils,10,0,SV Samson,Feroz Shah Kotla,S Ravi,C Shamshuddin,
+29,2016,Hyderabad,2016-04-23,Rising Pune Supergiant,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,43,5,Mustafizur Rahman,"Rajiv Gandhi International Stadium, Uppal",AK Chaudhary,CK Nandan,
+30,2016,Rajkot,2016-04-24,Delhi Daredevils,Gujarat Lions,Gujarat Lions,bat,normal,0,Delhi Daredevils,55,6,V Kohli,Saurashtra Cricket Association Stadium,K Bharatan,BNJ Oxenford,
