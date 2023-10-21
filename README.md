@@ -12,16 +12,4 @@
 #### Navigate to the project folder and install the requirements to the virtual environment
     pip install -r requirements.txt
 
-### setup coverage.py
-    
-#### Install Coverage.py:
-    pip install coverage
 
-#### Run Tests with Coverage:
-    coverage run -m unittest your_test_file.py
-
-#### Generate Coverage Report:
-    coverage report
-
-#### Generate HTML Report (Optional):
-    coverage html
