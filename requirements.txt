@@ -1,0 +1,8 @@
+Requirements
+
+The project requires the following dependencies:
+
+- Python 3.x
+- Matplotlib
+- unittest framework.
+- Coverage.py (for testing coverage)
